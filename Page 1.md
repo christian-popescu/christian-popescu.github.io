@@ -1,3 +1,5 @@
 ## Welcome to page 1
 
-[Back to main page](Readme.md)
+[Back to main page](README.md)
+
+Some notes.
